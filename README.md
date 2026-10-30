@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am Senior Data Engineer and AI enthusiast, experienced in building scalable data pipelines, data modernization using cloud platforms, relational databases, pyspark, SQL, Azure, AWS, GCP, Databricks, Fabric, Snowflake, DBT.
+I am Senior Data Engineer and AI enthusiast, experienced in building scalable data pipelines, data modernization using cloud platforms, relational databases, data migrations, orchestration and production deployments using Pyspark, SQL, Azure, AWS, GCP, Databricks, Fabric, Snowflake, DBT, GitHub, Devops.
 
 
 ## 🌐 Socials:
