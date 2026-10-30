@@ -5,7 +5,9 @@ I am Senior Data Engineer and AI enthusiast, experienced in building scalable da
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][(mailto:dataenthusiast9@gmail.com)] 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][(dataenthusiast9@gmail.com)] 
+[![AI/ML_project_portfolio][(https://www.mygreatlearning.com/eportfolio/shirisha-siliveri)]
+[![GENAI_project_portfolio][(https://www.mygreatlearning.com/eportfolio/shirisha-siliveri2)]
 
 
 # 💻 Tech Stack:
